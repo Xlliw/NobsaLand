@@ -1,273 +1,124 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744741199191 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744741766695 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741202314 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741769965 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741205410 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741773484 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741209063 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741777184 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741212177 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741781032 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741215299 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741784574 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741218402 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741787733 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
-[2J8[0mplayit (v0.15.26): 1744741227903 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741791418 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741230990 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741794858 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741234087 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741798873 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741237465 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741802557 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741240572 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741806113 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741243764 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741812738 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741246848 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741816075 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741249926 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741819292 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741253684 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741823910 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741260725 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741827036 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741263796 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741830286 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741266879 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741834058 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741269987 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741837928 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
-[2J8[0mplayit (v0.15.26): 1744741285186 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741841637 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741288338 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741844769 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741291417 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741848409 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741295369 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741851681 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741298495 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741302933 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741306905 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741310567 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741315824 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741319826 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741325139 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741329477 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741332943 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741336286 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741339588 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741342669 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741345757 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741348839 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741352065 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741356288 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741359371 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741362443 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741365530 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741369013 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741372372 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741377017 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741380454 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741383536 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741386665 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741391648 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741394879 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741398956 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
-[2J8[0mplayit (v0.15.26): 1744741408107 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741855453 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -278,73 +129,440 @@ Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, 
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
-[2J8[0mplayit (v0.15.26): 1744741436986 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741877078 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741441575 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741880155 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741445223 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741884428 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741449311 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741890196 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741452758 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744741899542 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741456011 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741903213 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741460089 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741907024 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741463743 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741910508 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741467878 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741914206 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-nmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741384420 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741919426 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741388801 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741923564 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741393334 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741926669 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741396465 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741929851 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741399538 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744741934979 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741940527 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741944960 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741948959 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741952152 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741956620 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741959864 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741963831 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741967254 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741971150 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741975518 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741979964 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741985838 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741989965 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741994291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742001285 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742005898 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742010537 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742015456 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742018621 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742022408 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742026749 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742029839 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742032935 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742036247 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742042600 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742046356 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742049437 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742052709 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742056627 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742059903 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742064335 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742068286 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742071858 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742075335 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742079464 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742082557 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742086441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742089596 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742093614 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742098847 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742105210 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742110701 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742113811 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742117027 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742120212 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742123775 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742127356 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742130708 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742133786 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742137950 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742143510 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742147323 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742151546 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742154935 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742159765 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742163291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742166676 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742170615 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742174248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742178286 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742182009 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742185772 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742190866 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742194680 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742197755 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742200830 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742207741 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742210814 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742213961 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742230393 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742233494 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742236571 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742239641 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -355,78 +573,1155 @@ Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, 
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
-[2J8[0mplayit (v0.15.26): 1744741420848 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742260925 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741423921 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742264374 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741426997 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742267882 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741430098 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742273794 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741433201 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742277055 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741437977 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742280147 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741441372 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742283255 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741444873 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742286335 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741448257 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742291167 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741452125 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742294255 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741455227 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742297332 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741458342 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742300515 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741463155 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742303608 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741466644 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742306963 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744741471159 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744742311201 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742314615 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742320175 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742325308 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742330637 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742333715 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742336816 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744742382442 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742387185 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742391445 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742394772 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742398494 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742401700 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742405225 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742408609 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742412836 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742416178 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742421162 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742424842 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742430659 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742435099 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742438439 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742442508 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742446506 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742450842 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742454013 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742457199 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742460479 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742464801 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742469224 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742472335 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742475921 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742479403 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742482488 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744742497687 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742500762 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744742525297 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742528382 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742531459 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742534770 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742538784 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742542572 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742546428 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742550097 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742553638 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742557453 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742560545 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742563658 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742567750 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742571470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742574590 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742578922 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742582859 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742586954 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742590042 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742594243 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742597321 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742600393 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744742609529 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742612600 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742616079 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742619443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742622904 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742625998 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742629087 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742633093 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742636378 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742640419 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742644601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742647724 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742651047 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742654134 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742657226 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742660333 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742665163 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742668662 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742672165 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742675917 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742679724 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742682967 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742686625 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742689858 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744742699367 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742705475 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742709060 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742712514 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744742739897 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742743359 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742746456 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742749576 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742753294 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742757029 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742761724 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742765384 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742769003 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742773277 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742776639 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742780649 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742783741 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742786825 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742790098 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742793830 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742797622 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742801658 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742805588 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742809053 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742812918 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742816080 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742821602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742825153 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742829419 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742832510 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742835879 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742839458 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742843289 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742846366 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744742855526 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742858608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744742873819 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742876954 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742884078 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742887165 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742890314 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742893893 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742898363 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742901608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742906068 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742909630 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742913597 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742917177 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742921040 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742924132 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742927625 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742930966 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742934746 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742939043 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742942125 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742945236 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742950867 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742953959 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742957041 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742960170 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742964048 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742967523 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742970886 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742974540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742978126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742981403 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742985003 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744742989098 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744743016580 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744743031819 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743035069 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743038548 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743041993 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743046909 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743050818 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743054304 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743058483 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743061674 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743064873 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743067956 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743071057 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743076988 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743081154 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743085788 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743089710 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743092793 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743096643 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743102271 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743105896 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743109634 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743113042 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744743128544 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743131657 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743135587 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743138863 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743142504 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743145583 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743149995 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743153147 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743156229 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743159305 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743163073 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744743172436 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743175511 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743179156 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743183167 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743187083 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743190876 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743193980 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743197596 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743201299 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743205727 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743209043 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743213743 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743216871 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743220809 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743224573 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743228777 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743231864 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743236043 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743239568 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743242650 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744743246314 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+work-save.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
